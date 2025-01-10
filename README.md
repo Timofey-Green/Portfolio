@@ -12,4 +12,6 @@
   - общаться с интересными людьми
 
 
-![alt text](ава.jpg)
+
+
+![ава](https://github.com/user-attachments/assets/2c2ffa31-ac68-445e-8ab9-e52aa331f5b5)
